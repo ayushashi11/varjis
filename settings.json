@@ -1,0 +1,34 @@
+{
+    "name": "Prabhakar Dev",
+    "nick": "vm",
+    "gender": "male",
+    "email": "devprabhakar0@gmail.com",
+    "religion": "hinduism",
+    "secondary emails": [],
+    "phone": "+919430064177",
+    "secondary phones": [],
+    "os": "manjaro",
+    "os username": "top-d",
+    "desktop environment": "kde",
+    "relations": {},
+    "calls": {
+        "ignore": {
+            "temporary": [],
+            "permanent": []
+        },
+        "notify": []
+    },
+    "messages": {
+        "ignore": {
+            "temporary": [],
+            "permanent": []
+        },
+        "notify": []
+    },
+    "bot settings": {},
+    "favourites": {},
+    "speech": true,
+    "auto_send": true,
+    "speech engine": "amazon polly",
+    "speech mode": "normal"
+}

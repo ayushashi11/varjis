@@ -1,0 +1,8 @@
+speech.mp3
+__pycache__/
+*.lock
+*.log
+.env
+.venv/
+*.pyc
+.*/
